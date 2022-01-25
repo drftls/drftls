@@ -8,3 +8,4 @@ Psuedonymous Hieronymous.
   * one single page
   * shortcut key cheat sheet cheatsheet
   * printout out reference hotkeys
+Psuedonymous Hieronymous
