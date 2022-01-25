@@ -1,8 +1,4 @@
-# drftls
-
-Psuedonymous Hieronymous.
-
-## files
+# helpful files
 
 * notion.so keyboard shortcuts
   * .docx & .PDF (c/o Google Docs)
